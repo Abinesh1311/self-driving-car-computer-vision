@@ -16,3 +16,7 @@ This folder contains the outputs of the Self‑Driving Car Prototype.
 ## Demo
 Project demo video is available here:  
 ➡️ [Click to view demo](https://drive.google.com/file/d/1Ves-fncLDBmISBG6R3aKLHbuziVQ5-HE/view?usp=drivesdk)
+
+## Project Report
+📄 Detailed Project Report (PDF):  
+[Click here to view/download the report](https://drive.google.com/file/d/17JPT9l3OIB7nv0Gv07SM90aWO97feDPU/view?usp=drivesdk)
